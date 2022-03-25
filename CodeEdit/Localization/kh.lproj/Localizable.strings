@@ -1,0 +1,44 @@
+"Hello, world!"="សូមស្វាគមន៏!";
+
+// Settings - General Tab
+"General"="ផ្ទាំងទូទៅ";
+
+// Settings - File Icon Style
+"File Icon Style"="រចនាបទរូបតំណាងឯកសារ";
+"Color"="ពណ៌";
+"Monochrome"="ម៉ូណូក្រូម";
+
+// Settings - Appearance
+"Appearance"="រូបរាង";
+"System"="ប្រពន្ធ័";
+"Light"="ភ្លឺ";
+"Dark"="ងងឹត";
+
+// Settings - Reopen Behavior
+"Reopen Behavior"="បើកឥរិយាបថឡើងវិញ";
+"Welcome Screen"="អេក្រង់ស្វាគមន៏";
+"Open Panel"="បើកបន្ទះ";
+"New Document"="បង្កើតឯកសារថ្មី";
+
+// Settings - Editor Theme
+"Editor Theme"="កែសម្រួលការរចនា";
+
+// Welcome Screen
+"Welcome to CodeEdit"="សូមស្វាគមន៏មកកាន់ CodeEdit";
+"Version %@ (%@)"="ជំនាន់ %@ (%@)";
+"No Recent Projects"="មិនមានគំរោងដែលបានបើកថ្មីៗទេ";
+
+// Welcome Screen - New File
+"Create a new file"="បង្កើតឯកសារថ្មី";
+"Clone an exisiting project"="ក្លូនគំរោងដែលមានស្រាប់";
+
+// Welcome Screen - SCM
+"Start working on something from a Git repository"="ចាប់ផ្តើមធ្វើការលើអ្វីមួយចេញពីឃ្លាំងGit";
+"Open a project or file"="បើកគំរោងឬឯកសារ";
+
+// Welcome Screen - Workspaces
+"Open an existing project or file on your Mac"="បើកគំរោងឬឯកសារដែលមានស្រាប់ហើយនៅលើMacរបស់លោកអ្នក";
+"Show this window when CodeEdit launches"="បង្ហាញផ្ទាំងនេះនៅពេលដែលCodeEditចាប់ផ្តើមដំណើរការ";
+
+//Editor Screen
+"CodeEdit cannot open this file because its file type is not supported." = "CodeEditមិនអាចបើកឯកសារនេះបានទេព្រោះប្រភេទនៃឯកសារនេះមិនត្រូវបានគាំទ្រឡើយ";

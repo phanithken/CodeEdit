@@ -123,6 +123,7 @@
 		B673FDAC27E8296A00795864 /* PressActionsModifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PressActionsModifier.swift; sourceTree = "<group>"; };
 		B6EE988F27E8879A00CDD8AB /* InspectorSidebar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InspectorSidebar.swift; sourceTree = "<group>"; };
 		B6EE989127E887C600CDD8AB /* InspectorSidebarToolbar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InspectorSidebarToolbar.swift; sourceTree = "<group>"; };
+		B9D6702127ED9C9F0058FCD9 /* kh */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = kh; path = kh.lproj/Localizable.strings; sourceTree = "<group>"; };
 		D7012EE727E757850001E1EF /* SidebarSearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SidebarSearch.swift; sourceTree = "<group>"; };
 		D7211D4227E066CE008F2ED7 /* Localized+Ex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Localized+Ex.swift"; sourceTree = "<group>"; };
 		D7211D4827E06BFE008F2ED7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
@@ -462,6 +463,7 @@
 				tr,
 				nl,
 				"pt-BR",
+				kh,
 			);
 			mainGroup = B658FB2327DA9E0F00EA4DBD;
 			packageReferences = (
@@ -636,6 +638,7 @@
 				85D7EE9527E928B900CB9F10 /* tr */,
 				2B7C962F27EA5D4000DF58C5 /* nl */,
 				2B772A4C27EA6AF800AFCD7E /* pt-BR */,
+				B9D6702127ED9C9F0058FCD9 /* kh */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
